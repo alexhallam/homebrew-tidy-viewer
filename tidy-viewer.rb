@@ -1,4 +1,4 @@
-class Tidy-Viewer < Formula
+class TidyViewer < Formula
   desc "Tidy Viewer (tv) is a cross-platform csv pretty printer that uses column styling to maximize viewer enjoyment."
   homepage "https://github.com/alexhallam/tv"
   url "https://github.com/alexhallam/tv/releases/download/0.0.20/tidy-viewer--x86_64-apple-darwin.tar.gz"
