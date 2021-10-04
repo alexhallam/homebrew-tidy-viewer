@@ -3,7 +3,7 @@ class Tidy-Viewer < Formula
   homepage "https://github.com/alexhallam/tv"
   url "https://github.com/alexhallam/tv/releases/download/0.0.20/tidy-viewer--x86_64-apple-darwin.tar.gz"
   sha256 "98ae51622763d8ef62fd163dcec88842dcfc0c1cdcbdaf2c5d8ae72d63858cb5"
-  version "0.1.0"
+  version "0.0.20"
 
   def install
     bin.install "tidy-viewer"
